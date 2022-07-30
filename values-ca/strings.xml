@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="welcome_title">Bienvenido a 3D Score Buddy!</string>
-    <string name="welcome_text">Tu compañero inteligente en todos los cursos de 3D</string>
+    <string name="welcome_title">Benvinguts a 3D Score Buddy!</string>
+    <string name="welcome_text">El teu company intel·ligent en tots els cursos de 3D</string>
     <string name="general_optional"><font size="12">opcional</font></string>
-    <string name="general_required"><font size="12">obligatorio</font></string>
+    <string name="general_required"><font size="12">obligatori</font></string>
     <string name="general_error">Error</string>
-    <string name="general_target">Objetivo</string>
-    <string name="close">Cerrar</string>
-    <string name="switch_off">Off</string>
-    <string name="switch_on">On</string>
+    <string name="general_target">Objectiu</string>
+    <string name="close">Tancar</string>
+    <string name="switch_off">Desactivat</string>
+    <string name="switch_on">Activat</string>
 
-    <string name="main_screen">"Inicio "</string>
-    <string name="action_settings">"Configuraciones "</string>
-    <string name="new_event">Nuevo evento</string>
-    <string name="phonebook">Administrar arqueros</string>
-    <string name="action_new_archer">Nuevo arquero</string>
-    <string name="trial_expired">La versión de prueba expiró</string>
+    <string name="main_screen">"Inici "</string>
+    <string name="action_settings">"Configuracions"</string>
+    <string name="new_event">Nou esdeveniment</string>
+    <string name="phonebook">Administrar arquers</string>
+    <string name="action_new_archer">Nou arquer</string>
+    <string name="trial_expired">La versió de prova va expirar</string>
     <string name="action_new_archer_need_professional">La versión gratuita está limitada a un tirador.\n\nSi quieres añadir más tiradores, por favor compra la versión profesional.</string>
     <string name="trial_expired_info">Durante 30 días podrías probar 3DScoreBuddy en la versión profesional. Este período de prueba expiró el %s! Si te gusta la aplicación y quieres anotar más de 1 arquero en el futuro, por favor compra la versión profesional.</string>
     <string name="no_thank_you">No, gracias</string>
