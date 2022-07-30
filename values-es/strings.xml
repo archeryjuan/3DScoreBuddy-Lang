@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="welcome_title">Bienvenido a 3D Score Buddy!</string>
+    <string name="welcome_text">Tu compañero inteligente en todos los cursos de 3D</string>
+    <string name="general_optional"><font size="12">opcional</font></string>
+    <string name="general_required"><font size="12">obligatorio</font></string>
+    <string name="general_error">Error</string>
+    <string name="general_target">Objetivo</string>
+    <string name="close">Cerrar</string>
+    <string name="switch_off">Off</string>
+    <string name="switch_on">On</string>
+
+    <string name="main_screen">"Inicio "</string>
+    <string name="action_settings">"Configuraciones "</string>
+    <string name="new_event">Nuevo evento</string>
+    <string name="phonebook">Administrar arqueros</string>
+    <string name="action_new_archer">Nuevo arquero</string>
+    <string name="trial_expired">La versión de prueba expiró</string>
+    <string name="action_new_archer_need_professional">La versión gratuita está limitada a un tirador.\n\nSi quieres añadir más tiradores, por favor compra la versión profesional.</string>
+    <string name="trial_expired_info">Durante 30 días podrías probar 3DScoreBuddy en la versión profesional. Este período de prueba expiró el %s! Si te gusta la aplicación y quieres anotar más de 1 arquero en el futuro, por favor compra la versión profesional.</string>
+    <string name="no_thank_you">No, gracias</string>
+    <string name="action_finish_event">Terminar el evento</string>
+    <string name="action_reopen_event">Reabrir el evento</string>
+    <string name="action_reopen_event_error">¡El torneo en línea no pudo abrirse!</string>
+    <string name="action_close_event">Cerrar el evento</string>
+    <string name="action_share_event">Comparte los resultados</string>
+    <string name="dialog_share_event_title">Comparte los resultados</string>
+    <string name="menu_purchase">Compra profesional</string>
+    <string name="menu_tts_enabled">Activar el habla</string>
+    <string name="menu_install_tts_data">Instalar archivos de voz</string>
+    <string name="menu_proximity_enabled">Sensor de proximidad</string>
+    <string name="menu_backup">Copia de seguridad en la nube</string>
+    <string name="menu_restore">Restaurar desde la nube</string>
+    <string name="menu_about">Sobre %s</string>
+    <string name="menu_exit">Salida</string>
+    <string name="purchase">Compre ahora</string>
+    <string name="purchase_failed">Compra fallida (código %1$d)</string>
+    <string name="purchase_thank_you">¡Gracias por actualizar a la versión profesional!</string>
+    <string name="purchase_refunded">¡La compra de la versión profesional fue reembolsada!</string>
+    <string name="dialog_archer_name">Nombre:</string>
+    <string name="dialog_archer_bow_class">Classe\nde arco:</string>
+    <string name="dialog_new_archer_button">Añade un arquero ahora</string>
+    <string name="dialog_edit_archer_title">Editar los participantes</string>
+    <string name="dialog_archer_error_empty_name">Por favor, introduzca un nombre!</string>
+    <string name="dialog_archer_error_invalid_name">Por favor, introduzca el nombre completo (nombre, apellido)!</string>
+    <string name="dialog_archer_error_existing_name">¡Este nombre ya existe!</string>
+    <string name="dialog_archer_error_empty_bowclass">Por favor, elija una clase de arco!</string>
+    <string name="dialog_archer_error_invalid_bowclass">Por favor, elija una clase de arco válida!</string>
+    <string name="dialog_archer_choose_name">Elija un arquero</string>
+    <string name="dialog_archer_choose_bowclass">Elija una clase de arco</string>
+    <string name="dialog_archer_hint">Consejo: Usando el botón de la esquina superior derecha, puedes añadir más arqueros.</string>
+    <string name="dialog_archer_list_hint">Consejo: Si seleccionas varios arqueros a la vez, se añadirán al instante al evento. Los cambios pueden hacerse presionando y manteniendo presionado el nombre de un arquero.</string>
+
+    <string name="dialog_new_event">Iniciar nuevo evento</string>
+    <string name="dialog_new_event_title">Nuevo evento</string>
+    <string name="dialog_new_event_title_toggle_on">Ayuda ON</string>
+    <string name="dialog_new_event_description">Descripción opcional</string>
+    <string name="dialog_new_event_rating">De puntaje:</string>
+    <string name="dialog_new_event_preset1">Animal</string>
+    <string name="dialog_new_event_preset2">Hunter</string>
+    <string name="dialog_new_event_preset3">Standard</string>
+    <string name="dialog_new_event_hint_change_rating">Mantenga pulsados los botones de configuración predefinida para sobrescribir los ajustes predeterminados.</string>
+    <string name="dialog_new_event_arrow1">Flecha1</string>
+    <string name="dialog_new_event_arrow2">Flecha2</string>
+    <string name="dialog_new_event_arrow3">Flecha3</string>
+    <string name="dialog_new_event_zone1">Zona1</string>
+    <string name="dialog_new_event_zone2">Zona2</string>
+    <string name="dialog_new_event_zone3">Zona3</string>
+    <string name="dialog_new_event_zone4">Zona4</string>
+    <string name="dialog_new_event_tournament_mode">Modo torneo:</string>
+    <string name="dialog_new_event_parcours_mode">Modo Parcours:</string>
+    <string name="dialog_new_event_starting_position">Objetivo inicial:</string>
+    <string name="dialog_new_event_marker_count">Número de\nobjetivos:</string>
+    <string name="dialog_new_event_hint_tournament_mode">En el modo torneo, el número de disparos está limitado por el número de objetivos disponibles. El objetivo inicial será tu primer disparo.</string>
+    <string name="dialog_new_event_archer_rotation">Rotación de arqueros:</string>
+    <string name="dialog_new_event_hint_archer_rotation">En el siguiente objetivo comienza el segundo arquero en el orden actual.</string>
+    <string name="dialog_new_event_gps_recording">Puntos de GPS:</string>
+    <string name="dialog_new_event_gps_tracking">Rastreo de GPS:</string>
+    <string name="dialog_new_event_hint_gps_recording">Con la grabación de GPS, los destinos pueden visualizarse en un mapa y, si la grabación de la pista está activa, incluso la ruta.\nAtención: la grabación de la pista necesita mucha más energía de la batería que si sólo se registran las posiciones de los objetivos!</string>
+    <string name="dialog_new_event_message">¿Realmente quieres cerrar este evento?</string>
+    <string name="dialog_new_event_nogps">El GPS parece estar desactivado.\n¿Quieres activarlo ahora?</string>
+    <string name="dialog_event_choose_title">Duplicar un evento existente</string>
+    <string name="dialog_edit_event_title">Modificar el evento</string>
+    <string name="dialog_edit_event_description">Descripción del evento:</string>
+    <string name="dialog_edit_event_toast_new_name">El evento ha sido renombrado:\n%s</string>
+    <string name="dialog_edit_event_error_empty_name">¡Por favor, añada una descripción!</string>
+    <string name="toast_event_import_error">¡Error al importar el evento!</string>
+    <string name="dialog_event_list_hint">Consejo: todos los parámetros y objetivos serán duplicados.</string>
+    <string name="dialog_preset_editor_title">Editar %s</string>
+    <string name="dialog_tts_not_available_title">La salida de voz no está disponible</string>
+    <string name="dialog_tts_not_available_message">No se encontraron datos de habla para la síntesis de habla de 3D Score Buddy, por lo tanto la salida de habla no está disponible!\n\nPor favor, descarga los archivos de voz a tu smartphone la próxima vez que tengas una conexión a Internet. Los archivos de voz en español tienen un tamaño aproximado de 8,6 MB y se pueden descargar a través del menú en »Instalar archivos de voz«.</string>
+    <string name="toast_tts_no_activity">Los ajustes para la instalación de los archivos de idioma TTS no se pudieron abrir</string>
+    <string name="dialog_clone_event_html"><![CDATA[<b>%1$s</b><small> del %2$s</small><br><small>%3$d/%4$d objetivos nombrados</small>]]></string>
+
+    <string name="dialog_tts_tournament_title">Modo de torneo en línea</string>
+    <string name="dialog_tts_tournament_message">La salida de voz no puede ser desactivada en el modo de torneo online!</string>
+    <string name="action_save">Guardar</string>
+    <string name="input_title">Anotación:</string>
+    <string name="dialog_finish_event_title">Evento cerrado</string>
+    <string name="dialog_finish_event_message">Consejo: El evento puede ser reabierto en cualquier momento a través del menú.</string>
+    <string name="dialog_target_title">Parámetros del objetivo</string>
+    <string name="dialog_target_number">Número:</string>
+    <string name="dialog_target_name">Nombre:</string>
+    <string name="dialog_new_tournament_title">Conectar con el evento</string>
+    <string name="dialog_new_tournament_id">Identificador:</string>
+    <string name="dialog_new_tournament_password">Contraseña:</string>
+    <string name="dialog_new_tournament_wheretoget">Obtendrá estos datos del club organizador.</string>
+    <string name="dialog_new_tournament_id_missing">Por favor, introduzca la identificación del evento!</string>
+    <string name="dialog_new_tournament_id_invalid">¡Identificación de evento inválido!</string>
+    <string name="delete">Eliminar</string>
+    <string name="dialog_delete_event_title">¿Borrar el evento?</string>
+    <string name="dialog_delete_event_message">¿Realmente quieres borrar el evento?</string>
+    <string name="cloud_mode_unknown_error">¡Se ha producido un error desconocido!</string>
+    <string name="cloud_mode_server_not_reachable">El servidor no es accesible. Por favor, compruebe su conexión a Internet!</string>
+
+    <string name="dialog_cloudmode_parcours_welcome">Bienvenue dans le parcours des %s</string>
+    <string name="dialog_cloudmode_parcours_start_intro"><![CDATA[Ahora introduzca su objetivo de inicio (normalmente &raquo;1&laquo;):]]></string>
+    <string name="dialog_cloudmode_parcours_start">Objetivo inicial:</string>
+    <string name="dialog_cloudmode_parcours_start_error">Por favor, introduzca un número de objetivo de inicio válido!</string>
+    <string name="dialog_cloudmode_tournament_welcome">Bienvenido a nuestro torneo:</string>
+    <string name="dialog_cloudmode_tournament_start_intro">Por favor, introduzca su número de objetivo inicial de acuerdo con la lista de agrupación:</string>
+    <string name="dialog_cloudmode_tournament_start">Iniciar grupo:</string>
+    <string name="dialog_cloudmode_tournament_start_error">¡Entra en un grupo inicial válido!</string>
+
+    <string name="dialog_rating_title_tournament">Por favor, califique nuestro torneo</string>
+    <string name="dialog_rating_text_tournament">¿Qué te pareció el torneo?</string>
+    <string name="dialog_rating_comment">¿Le gustaría darnos su opinión?</string>
+    <string name="dialog_rating_comment_hint">Aquí puedes dejar un comentario</string>
+
+    <string name="toast_not_found">No se encuentra</string>
+    <string name="toast_not_compatible">Este evento no es compatible</string>
+    <string name="toast_not_counted">Aún no se ha contado</string>
+    <string name="toast_archer_enabled">Archer activado</string>
+    <string name="toast_archer_disabled">Arquero desactivado</string>
+    <string name="context_menu_enable_archer">Activar el arquero</string>
+    <string name="context_menu_disable_archer">Desactivar el arquero</string>
+    <string name="context_menu_edit_archer">Editar los participantes</string>
+    <string name="context_menu_enable_archer_rotation">Activar la rotación de los arqueros</string>
+    <string name="context_menu_disable_archer_rotation">Desactivar la rotación de los arqueros</string>
+    <string name="event_duration_format">El evento duró</string>
+    <string name="event_running_format">El evento ha estado en marcha durante</string>
+    <string name="event_duration_format_hour">%d hora</string>
+    <string name="event_duration_format_hours">%d horas</string>
+    <string name="event_duration_format_and">y</string>
+    <string name="event_duration_format_minute">%d minutos</string>
+    <string name="event_duration_format_minutes">%d minutos</string>
+    <string name="event_load_event">Evento de carga</string>
+    <string name="event_proceed_event">Continuar el evento</string>
+    <string name="fragment_score_target">Objetivo %d</string>
+    <string name="fragment_score_waiting">%1$d de %2$d flechas anotadas, esperando&#8230;</string>
+    <string name="fragment_score_fixed">Puntuación fija, pulse y mantenga pulsada otra puntuación para cambiar</string>
+    <string name="fragment_score_event_ended">El evento ha sido completado, los cambios no son posibles</string>
+    <string name="fragment_score_no_archer">Por favor, añade un arquero para empezar.</string>
+    <string name="archer_hint">Consejo: al presionar y sostener un arquero u objetivo, puedes cambiar su nombre / propiedades.</string>
+    <string name="fragment_step_finish_event">Fin del evento</string>
+    <string name="fragment_step_longtap">(Presione y mantenga)</string>
+    <string name="fragment_step_share_results">Compartir los resultados</string>
+    <string name="fragment_step_show_leaderboard">Clasificación</string>
+    <string name="fragment_step_show_leaderboard_title">Clasificación de *LIVE*</string>
+
+    <string name="share_event_header">Resultado%1$s del %2$s</string>
+    <string name="share_event_score">%1$d de cada %2$d puntos, %3$s (%4$s%%)</string>
+    <string name="share_event_arrow">%d. Flecha</string>
+    <string name="share_event_miss">"Pasó(0) "</string>
+    <string name="share_event_special">Evaluación especial</string>
+    <string name="share_event_target">Objetivo %1$d: %2$d puntos</string>
+    <string name="share_event_arrow_count">Flechas disparadas: %d</string>
+    <string name="share_event_name_placeholder">Evento</string>
+    <string name="share_event_subject">%1$s del %2$s</string>
+    <string name="share_event_button">Comparte</string>
+    <string name="share_event_speak_button">Habla</string>
+    <string name="share_event_speak_intro">Aquí viene el resultado:</string>
+    <string name="share_event_speak_text">%1$s %2$d puntos</string>
+    <string name="share_event_excel_target">Objetivo</string>
+    <string name="share_event_excel_total">Total</string>
+    <string name="share_event_excel_average">Promedio</string>
+    <string name="share_event_excel_filename">resultados.xls</string>
+    <string name="map_target">Objetivo #%d</string>
+
+    <string name="about"><![CDATA[<small>&copy; 2013&#8211;2022 Juergen Weiss<br />E-Mail: mail@3dscorebuddy.de<br /><br />Profesional: %1$s<br /><br />Con 3D Score Buddy los eventos de tiro con arco, por ejemplo, los cursos de entrenamiento o los torneos pueden ser grabados, evaluados y compartidos.<br /><br />El proyecto se desarrolló para la transmisión de datos de los torneos y ahora también está disponible como un marcador electrónico para todos.<br />Con la versión profesional opcional se puede añadir cualquier número de arqueros a un evento.</small>]]></string>
+    <string name="about_email">E-Mail</string>
+    <string name="about_email_chooser">Envía un e-mail&#8230;</string>
+    <string name="about_title">Acerca de %1$s %2$s</string>
+    <string name="about_professional"><![CDATA[<b>compró</b>]]></string>
+    <string name="about_trial_valid"><![CDATA[<b>Versión de prueba hasta el %s</b>]]></string>
+    <string name="about_trial_expired"><![CDATA[<b>La versión de prueba expiró</b>]]></string>
+
+    <string name="dialog_trial_title">Bienvenido a 3D Score Buddy</string>
+    <string name="dialog_trial_message">3D Score Buddy es gratis, pero está limitado a un tirador (no se aplica al modo de torneo en línea).\n\nSi quieres introducir más de un tirador, necesitas la versión profesional, que puedes probar gratuitamente hasta el %s.</string>
+
+    <string name="tts_and">y</string>
+    <string name="tts_correction">Corrección</string>
+
+    <string name="nfc_event_received">Nuevo evento recibido a través de NFC</string>
+    <string name="nfc_error">Error al recibir el evento usando NFC</string>
+    <string name="nfc_event_sent">El evento fue enviado</string>
+
+    <string name="desc_list_item_icon">Icono</string>
+
+    <string name="showcase_content_title">Más eventos almacenados</string>
+    <string name="showcase_content_text">Puedes cambiar de un evento guardado a otro desplazándolo horizontalmente.</string>
+
+    <string name="phonebook_delete">Eliminar a Archer</string>
+    <string name="phonebook_delete_confirm">¿Realmente borrar %s?</string>
+    <string name="phonebook_delete_failed">¡Archer no pudo ser borrado!</string>
+    <string name="input_minus">Menos</string>
+    <string name="menu_proximity_help">El sensor de proximidad situado en la parte superior del teléfono puede evitar que introduzcas accidentalmente puntos en tu bolsillo.</string>
+    <string name="dialog_new_event_title_toggle_off">Ayuda OFF</string>
+    <string name="showcase_ok_button">Lo tengo</string>
+    <string name="dialog_new_event_score_error1">¡Esta combinación no tiene sentido!</string>
+    <string name="scan_qr_code_hint">Posicione el código QR del organizador dentro del rectángulo.</string>
+    <string name="scan_qr_code">Escanear código QR</string>
+    <string name="dialog_new_event_zone1_spot">Spot/x</string>
+    <string name="dialog_spot_title">Spot/x?</string>
+    <string name="tts_spot">Spot</string>
+    <string name="share_event_spot_count">Spots: %d</string>
+    <string name="facebook_url">https://www.facebook.com/groups/3dscorebuddy</string>
+    <string name="facebook_page_id">3dscorebuddy</string>
+    <string name="menu_social_fb">Únete a nosotros en Facebook</string>
+    <string name="dialog_new_event_hint_privacy">Mantén este evento fuera de línea, no envíes ningún dato al servidor.</string>
+    <string name="dialog_new_event_privacy">Modo de privacidad:</string>
+    <string name="dialog_rating_title_parcours">Por favor, califique nuestro curso</string>
+    <string name="dialog_rating_text_parcours">¿Qué le pareció nuestro curso?</string>
+
+    <string name="sync_service_title">Sincronización de 3D Score Buddy</string>
+    <string name="sync_service_waiting">Esperando datos de puntuación actualizados…</string>
+    <string name="sync_service_initiate">Iniciar la sincronización de los datos de puntuación</string>
+    <string name="sync_service_error">¡Error en la sincronización de los datos de puntuación!\n%d actualizaciones pendientes…</string>
+    <string name="sync_service_network">¡No hay conexión a la red!\n%d actualizaciones pendientes…</string>
+    <string name="sync_service_synchronize">Sincronizar los datos de puntuación (%d con el servidor</string>
+
+    <string name="fragment_score_proximity_lock">¡Sensor de proximidad cubierto, entradas bloqueadas! Esta función puede ser desactivada en el menú de aplicaciones.</string>
+
+    <string name="special_event_not_started">The special event %s has not been started!</string>
+    <string name="special_event_has_ended">The special event %s has ended!</string>
+    <string name="speciel_event_start_in_days">Start in\n%1$02dd %2$02d:%3$02d:%4$02d</string>
+    <string name="speciel_event_start_in_hours">Start in\n%1$02d:%2$02d:%3$02d</string>
+    <string name="speciel_event_time_left_days">Time left\n%1$02dd %2$02d:%3$02d:%4$02d</string>
+    <string name="speciel_event_time_left_hours">Time left\n%1$02d:%2$02d:%3$02d</string>
+    <string name="dialog_backup_hint">Utilice el siguiente código, si desea restaurar en un nuevo teléfono:</string>
+    <string name="dialog_backup_title">¡Copia de seguridad creada!</string>
+    <string name="dialog_restore_title">Restaurar desde la nube</string>
+    <string name="dialog_restore_hint">Introduce el código si quieres restaurar desde un teléfono antiguo o déjalo vacío para restaurar la última copia de seguridad en este teléfono. Después de reiniciar con éxito, la aplicación se reiniciará automáticamente.</string>
+    <string name="dialog_restore_code">Código (opcional)</string>
+
+    <string name="share_buttonpane_title">Compartir el evento a</string>
+    <string name="share_buttonpane_title_cust">Compartir %s a</string>
+    <string name="share_buttonpane_chat">Messenger (sólo texto)</string>
+    <string name="share_buttonpane_mail">Correo electrónico (Excel)</string>
+    <string name="share_buttonpane_mail_wTrack">Correo electrónico (Excel, GPX)</string>
+    <string name="share_buttonpane_zip">Archivo ZIP (Excel)</string>
+    <string name="share_buttonpane_zip_wTrack">Archivo ZIP (Excel, GPX)</string>
+    <string name="share_buttonpane_gpx">Sólo pista (GPX)</string>
+    <string name="purchase_canceled">La compra fue cancelada.</string>
+</resources>
