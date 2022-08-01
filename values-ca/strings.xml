@@ -84,7 +84,7 @@
     <string name="dialog_edit_event_title">Modificar l'esdeveniment</string>
     <string name="dialog_edit_event_description">Descripció de l'esdeveniment:</string>
     <string name="dialog_edit_event_toast_new_name">L'esdeveniment ha estat anomenat:\n%s</string>
-    <string name="dialog_edit_event_error_empty_name">¡Si us plau, afegiu una descripció!</string>
+    <string name="dialog_edit_event_error_empty_name">Si us plau, afegiu una descripció!</string>
     <string name="toast_event_import_error">¡Error en importar l'esdeveniment!</string>
     <string name="dialog_event_list_hint">Consell: tots els paràmetres i objectius seran duplicats.</string>
     <string name="dialog_preset_editor_title">Edita %s</string>
@@ -114,7 +114,7 @@
     <string name="cloud_mode_unknown_error">S'ha produït un error desconegut!</string>
     <string name="cloud_mode_server_not_reachable">El servidor no és accessible. Si us plau, comproveu la connexió a Internet!</string>
 
-    <string name="dialog_cloudmode_parcours_welcome">Bienvenue dans le parcours des %s</string>
+    <string name="dialog_cloudmode_parcours_welcome">Benvinguts al viatge de %s</string>
     <string name="dialog_cloudmode_parcours_start_intro"><![CDATA[Ara introduïu el vostre objectiu d'inici (normalment &raquo;1&laquo;):]]></string>
     <string name="dialog_cloudmode_parcours_start">Objectiu inicial:</string>
     <string name="dialog_cloudmode_parcours_start_error">Si us plau, introduïu un número d'objectiu d'inici vàlid!</string>
@@ -221,7 +221,7 @@
     <string name="dialog_new_event_hint_privacy">Mantingues aquest esdeveniment fora de línia, no enviïs cap dada al servidor.</string>
     <string name="dialog_new_event_privacy">Mode de privadesa:</string>
     <string name="dialog_rating_title_parcours">Si us plau, qualifiqueu el nostre curs</string>
-    <string name="dialog_rating_text_parcours">Què et semblar el nostre curs?</string>
+    <string name="dialog_rating_text_parcours">Què et va semblar el nostre curs?</string>
 
     <string name="sync_service_title">Sincronització de 3D Score Buddy</string>
     <string name="sync_service_waiting">Esperant dades de puntuació actualitzades…</string>
