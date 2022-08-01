@@ -199,38 +199,38 @@
     <string name="desc_list_item_icon">Icona</string>
 
     <string name="showcase_content_title">Més esdeveniments emmagatzemats</string>
-    <string name="showcase_content_text">Puedes cambiar de un evento guardado a otro desplazándolo horizontalmente.</string>
+    <string name="showcase_content_text">Podeu canviar d'un esdeveniment desat a un altre desplaçant-lo horitzontalment.</string>
 
-    <string name="phonebook_delete">Eliminar a Archer</string>
-    <string name="phonebook_delete_confirm">¿Realmente borrar %s?</string>
-    <string name="phonebook_delete_failed">¡Archer no pudo ser borrado!</string>
-    <string name="input_minus">Menos</string>
-    <string name="menu_proximity_help">El sensor de proximidad situado en la parte superior del teléfono puede evitar que introduzcas accidentalmente puntos en tu bolsillo.</string>
-    <string name="dialog_new_event_title_toggle_off">Ayuda OFF</string>
-    <string name="showcase_ok_button">Lo tengo</string>
-    <string name="dialog_new_event_score_error1">¡Esta combinación no tiene sentido!</string>
-    <string name="scan_qr_code_hint">Posicione el código QR del organizador dentro del rectángulo.</string>
-    <string name="scan_qr_code">Escanear código QR</string>
+    <string name="phonebook_delete">Eliminar arquer</string>
+    <string name="phonebook_delete_confirm">Realment esborrar %s?</string>
+    <string name="phonebook_delete_failed">Aquer no va poder ser esborrat!</string>
+    <string name="input_minus">Menys</string>
+    <string name="menu_proximity_help">El sensor de proximitat situat a la part superior del telèfon pot evitar que introdueixis accidentalment punts a la butxaca.</string>
+    <string name="dialog_new_event_title_toggle_off">Ajuda desactivada</string>
+    <string name="showcase_ok_button">Ho tinc</string>
+    <string name="dialog_new_event_score_error1">Aquesta combinació no té cap sentit!</string>
+    <string name="scan_qr_code_hint">Poseu el codi QR de l'organitzador dins del rectangle.</string>
+    <string name="scan_qr_code">Escanejar codi QR</string>
     <string name="dialog_new_event_zone1_spot">Spot/x</string>
     <string name="dialog_spot_title">Spot/x?</string>
     <string name="tts_spot">Spot</string>
     <string name="share_event_spot_count">Spots: %d</string>
     <string name="facebook_url">https://www.facebook.com/groups/3dscorebuddy</string>
     <string name="facebook_page_id">3dscorebuddy</string>
-    <string name="menu_social_fb">Únete a nosotros en Facebook</string>
-    <string name="dialog_new_event_hint_privacy">Mantén este evento fuera de línea, no envíes ningún dato al servidor.</string>
-    <string name="dialog_new_event_privacy">Modo de privacidad:</string>
-    <string name="dialog_rating_title_parcours">Por favor, califique nuestro curso</string>
-    <string name="dialog_rating_text_parcours">¿Qué le pareció nuestro curso?</string>
+    <string name="menu_social_fb">Uneix-te a nosaltres a Facebook</string>
+    <string name="dialog_new_event_hint_privacy">Mantingues aquest esdeveniment fora de línia, no enviïs cap dada al servidor.</string>
+    <string name="dialog_new_event_privacy">Mode de privadesa:</string>
+    <string name="dialog_rating_title_parcours">Si us plau, qualifiqueu el nostre curs</string>
+    <string name="dialog_rating_text_parcours">Què et semblar el nostre curs?</string>
 
-    <string name="sync_service_title">Sincronización de 3D Score Buddy</string>
-    <string name="sync_service_waiting">Esperando datos de puntuación actualizados…</string>
-    <string name="sync_service_initiate">Iniciar la sincronización de los datos de puntuación</string>
-    <string name="sync_service_error">¡Error en la sincronización de los datos de puntuación!\n%d actualizaciones pendientes…</string>
-    <string name="sync_service_network">¡No hay conexión a la red!\n%d actualizaciones pendientes…</string>
-    <string name="sync_service_synchronize">Sincronizar los datos de puntuación (%d con el servidor</string>
+    <string name="sync_service_title">Sincronització de 3D Score Buddy</string>
+    <string name="sync_service_waiting">Esperant dades de puntuació actualitzades…</string>
+    <string name="sync_service_initiate">Iniciar la sincronització de les dades de puntuació</string>
+    <string name="sync_service_error">Error en la sincronització de les dades de puntuació!\n%d actualitzacions pendents…</string>
+    <string name="sync_service_network">No hi ha connexió a la xarxa!\n%d actualitzacions pendents…</string>
+    <string name="sync_service_synchronize">Sincronitzar les dades de puntuació (%d amb el servidor</string>
 
-    <string name="fragment_score_proximity_lock">¡Sensor de proximidad cubierto, entradas bloqueadas! Esta función puede ser desactivada en el menú de aplicaciones.</string>
+    <string name="fragment_score_proximity_lock">¡Sensor de proximitat cubert, entrades bloquejades! Aquesta funció pot ser desactivada en el menú de aplicacions.</string>
 
     <string name="special_event_not_started">The special event %s has not been started!</string>
     <string name="special_event_has_ended">The special event %s has ended!</string>
@@ -238,19 +238,19 @@
     <string name="speciel_event_start_in_hours">Start in\n%1$02d:%2$02d:%3$02d</string>
     <string name="speciel_event_time_left_days">Time left\n%1$02dd %2$02d:%3$02d:%4$02d</string>
     <string name="speciel_event_time_left_hours">Time left\n%1$02d:%2$02d:%3$02d</string>
-    <string name="dialog_backup_hint">Utilice el siguiente código, si desea restaurar en un nuevo teléfono:</string>
-    <string name="dialog_backup_title">¡Copia de seguridad creada!</string>
-    <string name="dialog_restore_title">Restaurar desde la nube</string>
-    <string name="dialog_restore_hint">Introduce el código si quieres restaurar desde un teléfono antiguo o déjalo vacío para restaurar la última copia de seguridad en este teléfono. Después de reiniciar con éxito, la aplicación se reiniciará automáticamente.</string>
-    <string name="dialog_restore_code">Código (opcional)</string>
+    <string name="dialog_backup_hint">Utilitzeu el codi següent, si voleu restaurar en un nou telèfon:</string>
+    <string name="dialog_backup_title">Còpia de seguretat creada!</string>
+    <string name="dialog_restore_title">Restaurar des del núvol</string>
+    <string name="dialog_restore_hint">Introduïu el codi si voleu restaurar des d'un telèfon antic o deixeu-lo buit per restaurar l'última còpia de seguretat en aquest telèfon. Després de reiniciar amb èxit, l'aplicació es reiniciarà automàticament.</string>
+    <string name="dialog_restore_code">Codi (opcional)</string>
 
-    <string name="share_buttonpane_title">Compartir el evento a</string>
-    <string name="share_buttonpane_title_cust">Compartir %s a</string>
-    <string name="share_buttonpane_chat">Messenger (sólo texto)</string>
-    <string name="share_buttonpane_mail">Correo electrónico (Excel)</string>
-    <string name="share_buttonpane_mail_wTrack">Correo electrónico (Excel, GPX)</string>
-    <string name="share_buttonpane_zip">Archivo ZIP (Excel)</string>
-    <string name="share_buttonpane_zip_wTrack">Archivo ZIP (Excel, GPX)</string>
-    <string name="share_buttonpane_gpx">Sólo pista (GPX)</string>
-    <string name="purchase_canceled">La compra fue cancelada.</string>
+    <string name="share_buttonpane_title">Comparteix l'esdeveniment a</string>
+    <string name="share_buttonpane_title_cust">Comparteix %s a</string>
+    <string name="share_buttonpane_chat">Messenger (només text)</string>
+    <string name="share_buttonpane_mail">Correu electrònic (Excel)</string>
+    <string name="share_buttonpane_mail_wTrack">Correu electrònic (Excel, GPX)</string>
+    <string name="share_buttonpane_zip">Arxiu ZIP (Excel)</string>
+    <string name="share_buttonpane_zip_wTrack">Arxiu ZIP (Excel, GPX)</string>
+    <string name="share_buttonpane_gpx">Només pista (GPX)</string>
+    <string name="purchase_canceled">La compra va ser cancel·lada.</string>
 </resources>
