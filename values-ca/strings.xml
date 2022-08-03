@@ -71,7 +71,7 @@
     <string name="dialog_new_event_tournament_mode">Mode esdeveniment:</string>
     <string name="dialog_new_event_parcours_mode">Mode Parcours:</string>
     <string name="dialog_new_event_starting_position">Objectiu inicial:</string>
-    <string name="dialog_new_event_marker_count">Nombre de\objectius:</string>
+    <string name="dialog_new_event_marker_count">Nombre d'objectius:</string>
     <string name="dialog_new_event_hint_tournament_mode">Al mode torneig, el nombre de trets està limitat pel nombre d'objectius disponibles. L'objectiu inicial serà el primer tret.</string>
     <string name="dialog_new_event_archer_rotation">Rotació d'arquers:</string>
     <string name="dialog_new_event_hint_archer_rotation">En el següent objectiu comença el segon arquer a l'ordre actual.</string>
